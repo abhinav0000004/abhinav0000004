@@ -42,7 +42,7 @@ My thesis focuses on evaluating the robustness of state-of-the-art 3D human pose
 LLMs | RAG Systems | AI Agents | Pose Estimation | Time Series Forecasting | Generative AI | Prompt Engineering
 
 **Tools & Platforms**  
-`Azure` | `PySpark` | `Git` | `UiPath` | `Selenium` | `Power BI` | `Microsoft Office`
+`Azure` | `PySpark` | `Git` | `UiPath` | `Selenium` | `Microsoft Office`
 
 **Other**  
 Strategic Research | Market Intelligence | Business Acumen | Stakeholder Communication | Game Theory
