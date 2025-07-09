@@ -76,4 +76,8 @@ In the early part of my career, I wrote articles on data science and machine lea
 > _“Chaos isn't a pit. It's a ladder.”_  
 > I believe AI will be the ladder for the next wave of human progress.
 
+---
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhinav0000004&layout=compact&theme=default)
+
+
 Thanks for stopping by! 👋
